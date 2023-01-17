@@ -72,13 +72,15 @@ const toggleAnswer = () => {
     color: rgb(78, 79, 88);
     margin-bottom: 0.7rem;
     line-height: 1.5;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.4px;
 }
 .open_question {
     color: var(--Soft-red);
 }
 .icon {
     transition: transform 0.3s ease-in-out;
+    transform: translateY(-5px);
+    transform-origin: top center;
 }
 .arrow {
     transform: rotate(180deg);

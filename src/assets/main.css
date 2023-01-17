@@ -4,7 +4,7 @@
     --Soft-red: hsl(14, 88%, 65%);
     /* background gradient colors */
     --Soft-violet: hsl(273, 75%, 66%);
-    --Soft-blue: hsl(240, 73%, 65%);
+    --Soft-blue: hsla(242, 41%, 47%, 0.992);
     /* text colors */
     --Very-dark-grayish-blue: hsl(237, 12%, 33%);
     --Dark-grayish-blue: hsl(240, 6%, 50%);
