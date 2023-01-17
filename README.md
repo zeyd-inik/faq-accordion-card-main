@@ -1,4 +1,30 @@
-# faq-accordion-card-main
+## Overview
+
+-   Live Site URL: [Go to website](https://faq-accordion-card-main-xi-silk.vercel.app/)
+
+### The App
+
+Users should be able to:
+
+-   View the optimal layout for the component depending on their device's screen size
+-   See hover states for all interactive elements on the page
+-   Hide/Show the answer to a question when the question is clicked
+
+### Screenshot
+
+![](./src/assets/images/img1.png) ![](./src/assets/images/img2.png)
+
+## My process
+
+### Built with
+
+-   CSS custom properties
+-   Flexbox
+-   Vue Animation
+-   Mobil-first approach
+-   Vue Composition API
+
+# faq-accordion-card
 
 This template should help get you started developing with Vue 3 in Vite.
 
